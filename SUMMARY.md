@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NFT Wiki extended version](README.md)
+* [Rarible Documentation](README.md)
 
 ## Blockchain & NFTs
 
