@@ -1,6 +1,13 @@
 # Table of contents
 
-* [Welcome to the Rarible Docs site](README.md)
+* [NFT Wiki extended version](README.md)
+
+## Blockchain & NFTs
+
+* [Getting Started With Blockchain](blockchain-and-nfts/getting-started-with-blockchain.md)
+* [An Introduction to NFTs](blockchain-and-nfts/an-introduction-to-nfts/README.md)
+  * [How NFTs are changing the future of ownership](blockchain-and-nfts/an-introduction-to-nfts/how-nfts-are-changing-the-future-of-ownership.md)
+  * [How to make money on NFTs](blockchain-and-nfts/an-introduction-to-nfts/how-to-make-money-on-nfts.md)
 
 ## How To Create An NFT With Rarible.com <a id="how-to-create-an-nft"></a>
 
